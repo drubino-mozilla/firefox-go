@@ -1,0 +1,41 @@
+#background {
+    background: #2B2A33;
+    border-radius: 5px;
+    border: 1px solid #42414D;
+}
+
+QLineEdit {
+    background: #42414D;
+    border: 2px solid #218FA6;
+    border-radius: 5px; 
+    font-size: 16px; 
+    color: white;
+    font-style: normal;
+    padding-left: 8px;
+    padding-right: 8px;
+    selection-background-color: blue;
+    selection-color: white;
+    placeholder-text-color: white;
+}
+QLineEdit:read-only {
+    background: #1C1B22;
+    border: 1px solid black;
+}
+
+QPushButton {
+    background-color: transparent; 
+    border: none;
+    border-radius: 5px; 
+}
+QPushButton:hover {
+    background-color: #52525E;
+}
+QPushButton:pressed {
+    background-color: #5B5B66;
+}
+
+QLabel {
+    color: gray;
+    font-size: 12px;
+    font-style: italic;
+}

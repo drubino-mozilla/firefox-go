@@ -1,0 +1,7 @@
+PyQt6
+keyboard
+pyautogui
+pywin32
+psutil
+windows-toasts
+pyinstaller

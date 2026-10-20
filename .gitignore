@@ -1,0 +1,13 @@
+# PyInstaller output
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime artifacts
+run/
+error.log
