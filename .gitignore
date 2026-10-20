@@ -10,4 +10,4 @@ venv/
 
 # Runtime artifacts
 run/
-error.log
+*.log

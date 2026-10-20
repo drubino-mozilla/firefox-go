@@ -20,7 +20,7 @@ A 2023 Windows prototype of a lightweight, always-available Firefox search bar. 
 
 ## Running
 
-Windows only. Requires Python 3.11.
+Windows only. Requires Python 3.11 (the pinned `windows-toasts` 0.x depends on `winsdk`, which has no wheels for newer Pythons).
 
 ```
 pip install -r requirements.txt

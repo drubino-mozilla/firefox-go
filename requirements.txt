@@ -3,5 +3,5 @@ keyboard
 pyautogui
 pywin32
 psutil
-windows-toasts
+windows-toasts<1
 pyinstaller
